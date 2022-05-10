@@ -1,0 +1,42 @@
+#Cs{
+    background-color:black;
+    
+}
+#HTML{
+    background-color:black;
+    
+}
+#Teamwork{
+    background-color:black;
+    
+}
+#researcher{
+    background-color:black;
+    
+}
+#Write{
+    background-color:black;
+    
+}
+#Microsoft{
+    background-color:white;
+   
+}
+.progress-bars{
+    flex-direction: column;
+    
+}
+
+.progress-bar{
+    margin-bottom: 2rem;
+    flex-direction: column;
+
+}
+.form-control{
+ width: 450px;
+ margin-bottom: 1rem;
+
+}
+.btn10{
+background-color:lightgray;
+}
